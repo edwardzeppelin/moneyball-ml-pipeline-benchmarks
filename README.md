@@ -57,6 +57,6 @@ python main.py
 
 ## 📈 Analysis & Visualizations
 1. Scatter Matrix: Explores numerical feature distributions and correlations.
-2. Alpha Regularization Plot: Visualizes the impact of regularization strength ($\alpha \in [10^{-4}, 10^6]$) on $R^2$ scores for Ridge and Lasso regression[cite: 1].
+2. Alpha Regularization Plot: Visualizes the impact of regularization strength ($\alpha \in [10^{-4}, 10^6]$) on $R^2$ scores for Ridge and Lasso regression.
 3. SVM Parameter Heatmaps: Analyzes the trade-off between $C$ and $\gamma$ parameters for SVR with/without feature scaling.
-4. Feature Importance Bar Charts: Ranks top features influencing model predictions across both linear models and tree-based ensembles[cite: 1].
+4. Feature Importance Bar Charts: Ranks top features influencing model predictions across both linear models and tree-based ensembles.
